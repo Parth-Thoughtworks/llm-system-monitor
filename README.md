@@ -13,3 +13,5 @@ An intelligent system monitoring tool that uses Large Language Models (LLMs) to 
 - 🖥️ **System Information**: OS, platform, architecture details
 - ⏱️ **Uptime Tracking**: System boot time and uptime
 - 🌡️ **Temperature Monitoring**: System temperature sensors (when available)
+
+🚀 **Start Monitoring**: Run the agent with `python main.py`
